@@ -20,7 +20,8 @@ Chapter of Video Lecture
 1 - Your function name is stackImage() in stack.py
 2 - import stack
 3 - stack.stackImages()
-# 
+
+# main.py
 import stack
 path = 'Resources/Shapes.jpg'
 img = cv2.imread(path)
